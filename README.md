@@ -2,10 +2,10 @@
 
 
 ### Stack
-TypeScript
-React + Vite
-Feature-Sliced Design
-Redux-toolkit
+- TypeScript
+- React + Vite
+- Feature-Sliced Design
+- Redux-toolkit
 
 
 ### Описание:
