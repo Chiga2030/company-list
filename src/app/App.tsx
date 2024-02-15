@@ -1,10 +1,11 @@
-import { Companies, } from '../pages/Companies'
+import { CompaniesPage, } from '../pages/CompaniesPage'
 
 
 function App () {
   return (
-    <Companies />
+    <CompaniesPage />
   )
 }
+
 
 export default App
