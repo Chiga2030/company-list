@@ -1,7 +1,14 @@
-# React + Vite
+# company-list
 
 
-### Дано:
+### Stack
+TypeScript
+React + Vite
+Feature-Sliced Design
+Redux-toolkit
+
+
+### Описание:
 Слева имеется таблица со списком компаний.
 Справа - таблица сотрудников выбранной компании.
 
